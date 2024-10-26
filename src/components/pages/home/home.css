@@ -1,0 +1,32 @@
+#mainHome1 {
+    background-image: url(../../media/images/Banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    margin-top: -80px;
+    background-attachment: fixed;
+}
+.mainHome_content{
+    transform: translate(0%, 90%);
+    width: 50%;
+    margin-left: 0px !important;
+    align-items: center;
+}
+.mainHome_content h1{
+    font-size: 54px;
+    letter-spacing: 1px;
+    font-weight: 700;
+}
+.mainHome_content span{
+    color: green;
+}
+.typewriter-wrapper {
+    display: inline-block;
+    min-width: 200px; /* Adjust to match the longest word in your typewriter list */
+    text-align: left;
+    white-space: nowrap; /* Prevents line break in the text */
+    overflow: hidden;
+}
+
+
