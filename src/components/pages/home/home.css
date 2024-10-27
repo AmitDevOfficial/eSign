@@ -29,4 +29,28 @@
     overflow: hidden;
 }
 
+/*----HomeSection1-----*/
+#homeSectionOne h1{
+    font-weight: 700;
+}
+#homeSectionOne span{
+    color: green;
+}
+#homeSectionOne img{
+    width: 23%;
+    margin: auto;
+}
+
+/*----HomeSection2-----*/
+
+#homeSectionTwo img{
+    width: 100%;
+    max-width: 496px;
+}
+#homeSectionTwo h1{
+    font-weight: 700;
+}
+#homeSectionTwo span{
+    color: green;
+}
 
