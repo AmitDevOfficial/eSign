@@ -9,7 +9,7 @@ body {
   }
   
   body::-webkit-scrollbar-thumb {
-    background: #57ca0b;
+    background: green;
     border-radius: 50px;
   }
   

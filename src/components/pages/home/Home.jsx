@@ -5,6 +5,8 @@ import HomeSection1 from './HomeSection1';
 import HomeSection2 from './HomeSection2';
 import HomeSection4 from './HomeSection4';
 import HomeSection5 from './HomeSection5';
+import HomeSection6 from './HomeSection6';
+
 
 export default function Home() {
     const [text] = useTypewriter({
@@ -27,6 +29,7 @@ export default function Home() {
             <HomeSection2 />
             <HomeSection4 />
             <HomeSection5 />
+            <HomeSection6 />
         </>
     )
 }

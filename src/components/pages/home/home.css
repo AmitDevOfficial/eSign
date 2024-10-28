@@ -70,10 +70,6 @@
 
 /*-----HomeSection4---- Start-----*/
 
-/* #homeSectionFour img{
-    width: 100%;
-    max-width: 495px;
-} */
 #homeSectionFour h1{
     font-weight: 700;
 }
@@ -88,7 +84,7 @@
 }
 
 #seoImg {
-    background-image: url(../../media/images/becomeSEO.png);
+    background-image: url(../../media/images/seo3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -113,4 +109,20 @@
     background-color: rgba(0, 0, 0, 0.5);
 }
 /*-----HomeSection4---- End-----*/
+
+/*-----HomeSection5---- Start-----*/
+#homeSectionFive .serviceIcon:hover{
+    background-color: green;
+    /* border-radius: 80px; */
+    color: white;
+    transition: 1s ease;
+}
+
+#homeSectionFive h1{
+    font-weight: 700;
+}
+#homeSectionFive span{
+    color: green;
+}
+/*-----HomeSection5---- End-----*/
 
