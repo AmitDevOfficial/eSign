@@ -1,0 +1,23 @@
+body {
+    overflow-y: auto; 
+    max-height: 100%; 
+  }
+  
+  body::-webkit-scrollbar {
+    width: 5px;
+    height: 20%;
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background: #57ca0b;
+    border-radius: 50px;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
