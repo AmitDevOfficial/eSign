@@ -29,7 +29,7 @@
     overflow: hidden;
 }
 
-/*----HomeSection1-----*/
+/*----HomeSection1 ---- Start-----*/
 #homeSectionOne h1{
     font-weight: 700;
 }
@@ -40,8 +40,11 @@
     width: 23%;
     margin: auto;
 }
+/*----HomeSection1---- End -----*/
 
-/*----HomeSection2-----*/
+
+
+/*----HomeSection2---- Start-----*/
 
 #homeSectionTwo img{
     width: 100%;
@@ -53,4 +56,67 @@
 #homeSectionTwo span{
     color: green;
 }
+
+/*----HomeSection2---- End-----*/
+
+
+
+/*-----HomeSection3---- Start-----*/
+
+
+
+/*-----HomeSection3---- End-----*/
+
+
+/*-----HomeSection4---- Start-----*/
+
+/* #homeSectionFour img{
+    width: 100%;
+    max-width: 495px;
+} */
+#homeSectionFour h1{
+    font-weight: 700;
+}
+#homeSectionFour span{
+    color: green;
+}
+#homeSectionFour ul{
+    padding-left: 0;
+}
+#homeSectionFour ul li{
+    list-style: none;
+}
+
+#seoImg {
+    background-image: url(../../media/images/becomeSEO.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 50vh;
+    margin-top: -80px;
+    background-attachment: fixed;
+}
+
+.seoBackImg{
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 50vh; 
+    z-index: 1;
+}
+
+/* .image-layer::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); 
+    z-index: 1;
+}
+
+.image-layer img {
+    position: relative;
+    z-index: 2;
+} */
+/*-----HomeSection4---- End-----*/
 
