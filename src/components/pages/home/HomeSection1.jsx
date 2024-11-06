@@ -6,8 +6,6 @@ import trophy from '../../media/logos/trophy.png';
 
 export default function HomeSection1() {
  
-  
-
   return (
     <div id="homeSectionOne" className="container-fluid text-center my-5">
       <h1 className="p-3">

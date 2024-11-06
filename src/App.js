@@ -9,7 +9,7 @@ function App() {
   useEffect(() => {
     if (window.AOS) {
       window.AOS.init({
-        duration: 1000, // Animation duration in ms
+        duration: 2000, // Animation duration in ms
         once: false,     // Run animations only once
       });
     }
