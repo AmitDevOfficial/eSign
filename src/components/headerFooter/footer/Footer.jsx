@@ -15,9 +15,9 @@ export default function Footer() {
                             <h5>ABOUT US</h5>
                             <p className='lh-lg pt-4'>We are professional Internet Marketing & SEO expert from India specializing in Search Engine Optimization(SEO).</p>
                             <ul className='lh-lg'>
-                                <li><LocationOnIcon/> New Delhi, India</li>
-                                <li><PhoneAndroidIcon/> Phone: +91-9718099999</li>
-                                <li><EmailIcon/> Email: support@esignwebservices.com</li>
+                                <li><LocationOnIcon className='greenIcon'/> New Delhi, India</li>
+                                <li><PhoneAndroidIcon className='greenIcon'/> Phone: +91-9718099999</li>
+                                <li><EmailIcon className='greenIcon'/> Email: support@esignwebservices.com</li>
                             </ul>
                         </div>
                     </div>
@@ -26,12 +26,12 @@ export default function Footer() {
                             <div className="footerMiddleSection">
                                 <h5>MENUS</h5>
                                 <ul className='lh-lg pt-4'>
-                                    <li> <KeyboardArrowRightIcon/> Home</li>
-                                    <li> <KeyboardArrowRightIcon/> About Us</li>
-                                    <li> <KeyboardArrowRightIcon/> Why Choose</li>
-                                    <li> <KeyboardArrowRightIcon/> SEO Services</li>
-                                    <li> <KeyboardArrowRightIcon/> Case Studies</li>
-                                    <li> <KeyboardArrowRightIcon/> Blog</li>
+                                    <li> <KeyboardArrowRightIcon className='greenIcon'/> Home</li>
+                                    <li> <KeyboardArrowRightIcon className='greenIcon'/> About Us</li>
+                                    <li> <KeyboardArrowRightIcon className='greenIcon'/> Why Choose</li>
+                                    <li> <KeyboardArrowRightIcon className='greenIcon'/> SEO Services</li>
+                                    <li> <KeyboardArrowRightIcon className='greenIcon'/> Case Studies</li>
+                                    <li> <KeyboardArrowRightIcon className='greenIcon'/> Blog</li>
                                 </ul>
                             </div>
                         </div>
@@ -40,12 +40,12 @@ export default function Footer() {
                         <div class="p-3">
                             <h5>OUR SERVICES</h5>
                             <ul className='lh-lg pt-4'>
-                                    <li> <KeyboardArrowRightIcon/> Keyword Research</li>
-                                    <li> <KeyboardArrowRightIcon/> On-Page SEO</li>
-                                    <li> <KeyboardArrowRightIcon/> Off-Page SEO/Link Building</li>
-                                    <li> <KeyboardArrowRightIcon/> Google Console/Analytics</li>
-                                    <li> <KeyboardArrowRightIcon/> Google AdWords</li>
-                                    <li> <KeyboardArrowRightIcon/> Other Internet Marketing Services</li>
+                                    <li> <KeyboardArrowRightIcon className='greenIcon'/> Keyword Research</li>
+                                    <li> <KeyboardArrowRightIcon className='greenIcon'/> On-Page SEO</li>
+                                    <li> <KeyboardArrowRightIcon className='greenIcon'/> Off-Page SEO/Link Building</li>
+                                    <li> <KeyboardArrowRightIcon className='greenIcon'/> Google Console/Analytics</li>
+                                    <li> <KeyboardArrowRightIcon className='greenIcon'/> Google AdWords</li>
+                                    <li> <KeyboardArrowRightIcon className='greenIcon'/> Other Internet Marketing Services</li>
                                 </ul>
                         </div>
                     </div>
