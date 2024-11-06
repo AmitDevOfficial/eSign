@@ -7,3 +7,5 @@ export default function HomeSection6() {
         </div>
     )
 }
+
+

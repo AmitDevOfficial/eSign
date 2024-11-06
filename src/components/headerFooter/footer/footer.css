@@ -1,0 +1,15 @@
+#footerSection ul li{
+    list-style: none;
+    padding-left: 0px !important;
+}
+#footerSection ul{
+    padding-left: 0px !important;
+}
+.footerMiddleSection{
+    padding-left: 100px;
+}
+
+#footerStrip{
+    background-color: green;
+}
+

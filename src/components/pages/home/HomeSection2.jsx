@@ -7,12 +7,12 @@ export default function HomeSection2() {
         <div id="homeSectionTwo" className='container-fluid mt-5 pt-5'>
             <div class="px-4">
                 <div class="row row-cols-1 row-cols-lg-2 gx-5">
-                    <div class="col">
+                    <div class="col" data-aos="fade-up" data-aos-duration="3000">
                         <div class="p-3 text-center">
                             <img src={about} alt="" />
                         </div>
                     </div>
-                    <div class="col">
+                    <div class="col" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
                         <div class="p-3">
                             <h1 className='mb-5'>Best <span>SEO Expert</span> in India</h1>
                             <p className='lh-lg'>We are professional Internet Marketing & SEO expert from India specializing in Search Engine Optimization(SEO). At eSign Web Services, we specialize in a broad spectrum of internet marketing services. Our certified team work closely with clients using state of the art techniques and creativity combined with the highest level of professionalism to improve the marketing of your products and services.</p>

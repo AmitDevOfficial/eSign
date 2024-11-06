@@ -124,5 +124,15 @@
 #homeSectionFive span{
     color: green;
 }
+
+.servicesCard{
+    border: 1px solid green;
+    border-radius: 30px;
+}
+.servicesCard:hover{
+    box-shadow: 0px 0px 26px -1px green;
+    transition: 1s ease;
+}
+
 /*-----HomeSection5---- End-----*/
 
